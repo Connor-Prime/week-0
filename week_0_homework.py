@@ -32,8 +32,7 @@ def is_leap_year(year):
         else:
             return True
     else:
-        return False        
- 
+        return False
 
 
 print("\n\nQuestion 1 Test:")
@@ -41,7 +40,6 @@ hello_name("conor")
 
 print("\n\nQuestion 2 Test:\n")
 first_odds()
-
 
 
 print("\n\nQuestion 3 Test:\n")
