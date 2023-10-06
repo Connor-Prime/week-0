@@ -43,11 +43,9 @@ first_odds()
 
 
 print("\n\nQuestion 3 Test:\n")
-
 test_list=[1,4,55,7,8,9,2] # Biggest number 55
 
 print(max_num_in_list(test_list)) #expected output: 55
-
 print("\n\nQuestion 4 Tests:\n")
 
 print(is_leap_year(400)) # expected output: False 
